@@ -51,7 +51,7 @@ class ProfilePage extends StatelessWidget {
 
                   // Name
                   const Text(
-                    "Johan Smith",
+                    "Toi la Chi",
                     style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
                   ),
 

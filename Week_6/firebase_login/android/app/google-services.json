@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "695767398780",
+    "project_id": "myauthapp-481e0",
+    "storage_bucket": "myauthapp-481e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695767398780:android:3d389aad20d4abf79a8cf9",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695767398780-0te02kkr9bog5i17808ha7br1f6c3ujk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIeR5nYHihlqdPTORyIWeIN6NDjl7uJY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695767398780-0te02kkr9bog5i17808ha7br1f6c3ujk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

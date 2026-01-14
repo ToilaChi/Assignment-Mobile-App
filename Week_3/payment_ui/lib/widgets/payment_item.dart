@@ -36,10 +36,10 @@ class PaymentItem extends StatelessWidget {
               color: Colors.blue,
             ),
             const SizedBox(width: 12),
-            Text(method.name, style: const TextStyle(fontSize: 16)),
+            Text(method.name ?? '', style: const TextStyle(fontSize: 16)),
             const Spacer(),
             Image.asset(
-              method.icon,
+              method.icon ?? '',
               width: 80,
               height: 60,
               fit: BoxFit.contain,

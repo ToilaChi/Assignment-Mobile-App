@@ -27,7 +27,7 @@ class _PaymentScreenState extends State<PaymentScreen> {
             Center(
               child: selectedMethod != null
                   ? Image.asset(
-                      selectedMethod!.icon,
+                      selectedMethod!.icon ?? '',
                       height: 100,
                       width: 150,
                       fit: BoxFit.contain,

@@ -1,0 +1,11 @@
+- Họ và tên: Phạm Minh Chí
+- Đề tài: State Management in Flutter
+- Link github: https://github.com/ToilaChi/Assignment-Mobile-App/tree/main/Elearning
+- Dự án là một demo cơ bản liên quan đến việc sử dụng Provider (một thư viện State Management) để quản lý trạng thái dự liệu.
+- Cách cái đặt: 
+1. Truy cập vào link github bên trên
+2. Copy url 
+3. Clone dự án về
+4. Cách run:
+	- cd smartshop
+	- flutter run
